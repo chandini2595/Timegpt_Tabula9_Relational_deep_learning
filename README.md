@@ -11,6 +11,14 @@ Fine tuning - https://colab.research.google.com/drive/1bNMqnKf6xygHP4mxodT82lzNi
 Youtube: https://youtu.be/R99dgdDi7HA
 
 Anamoly detection - https://colab.research.google.com/drive/1-2oZzC2f6Mji7FmqQQGYV4X6U1SU4af5?usp=sharing
+
+Youtube: https://youtu.be/4sXOXVHbeds
+
 Forecasting Energy Demand - https://colab.research.google.com/drive/1eyYqW1Z4xkkFfiLrkfN8VN81CkTvtQRt#scrollTo=fE9XH9CTgkAx
+
+Youtube: https://youtu.be/CszG765mjaY
+
 Bitcoin forecasting - https://colab.research.google.com/drive/1LDlGhwCur6gRbAjRs_-fv6W9q73VKwys?usp=sharing
+
+Youtube: https://youtu.be/HdSEzxB6mYk
 
