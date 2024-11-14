@@ -22,3 +22,10 @@ Bitcoin forecasting - https://colab.research.google.com/drive/1LDlGhwCur6gRbAjRs
 
 Youtube: https://youtu.be/HdSEzxB6mYk
 
+Generate synthetic data - https://colab.research.google.com/drive/1ehaPwFF90W7sCz2-bOXMT09Co_qvFivy?usp=sharing
+
+Demonstrate inference on tabula - https://colab.research.google.com/drive/1WTZDBBbGcQcan7dbESfOvA7qkHox--rS?usp=sharing
+
+Train a gnn based model for tabular prediction task using relbench - https://colab.research.google.com/drive/1GdSBMBVKRvz4OQb2661HjsZI-TL-pGFz?usp=sharing
+
+
